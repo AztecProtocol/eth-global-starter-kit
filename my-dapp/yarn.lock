@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@aztec/contract-artifacts@^1.18.0":
-  version "1.18.0"
-  resolved "https://registry.yarnpkg.com/@aztec/contract-artifacts/-/contract-artifacts-1.18.0.tgz#38c94f0217a97d4232fb9ae4d2d01cfd57cd389f"
-  integrity sha512-FA0QIVGZKDkMe4dDmZRRirl0cXhfhBydlUaCt24Zx+bGSTeuT9wpPfp0K5HfILTD8tZ7YYGlx4cc4yw3x/RP1w==
+"@aztec/contract-artifacts@^1.20.0":
+  version "1.22.0"
+  resolved "https://registry.yarnpkg.com/@aztec/contract-artifacts/-/contract-artifacts-1.22.0.tgz#20d1ed6edfec7d4aab87307aff4f100f7fef3bb3"
+  integrity sha512-XRl+OybnkolAWxMwkBke1orXzlgX1xA5LlGNeuP+v/veTAhGf9KQm/mALkopc8iBVTWtHW+kJjzu3JjD6JcdeQ==
 
 "@aztec/guacamole-ui@1.2.0":
   version "1.2.0"
@@ -11370,9 +11370,9 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.3.tgz#5d2ff22977003ec687a4b87073dfbbac146ccf29"
-  integrity sha512-nqHUnMXmBzT0w570r2JpJxfiSD1IzoI+HGVdd3aZ0yNi3ngvQ4jv1dtHt5VGxfI2yj5yqImPhOK4vmIh2xMbGg==
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
+  integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
 
 whatwg-encoding@^1.0.1, whatwg-encoding@^1.0.3, whatwg-encoding@^1.0.5:
   version "1.0.5"
