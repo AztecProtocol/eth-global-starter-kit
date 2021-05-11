@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@aztec/contract-artifacts@^1.18.0":
-  version "1.18.0"
-  resolved "https://registry.yarnpkg.com/@aztec/contract-artifacts/-/contract-artifacts-1.18.0.tgz#38c94f0217a97d4232fb9ae4d2d01cfd57cd389f"
-  integrity sha512-FA0QIVGZKDkMe4dDmZRRirl0cXhfhBydlUaCt24Zx+bGSTeuT9wpPfp0K5HfILTD8tZ7YYGlx4cc4yw3x/RP1w==
+"@aztec/contract-artifacts@^1.20.0":
+  version "1.22.0"
+  resolved "https://registry.yarnpkg.com/@aztec/contract-artifacts/-/contract-artifacts-1.22.0.tgz#20d1ed6edfec7d4aab87307aff4f100f7fef3bb3"
+  integrity sha512-XRl+OybnkolAWxMwkBke1orXzlgX1xA5LlGNeuP+v/veTAhGf9KQm/mALkopc8iBVTWtHW+kJjzu3JjD6JcdeQ==
 
 "@aztec/guacamole-ui@1.2.0":
   version "1.2.0"
@@ -5163,9 +5163,9 @@ homedir-polyfill@^1.0.1:
     parse-passwd "^1.0.0"
 
 hosted-git-info@^2.1.4:
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.5.tgz#759cfcf2c4d156ade59b0b2dfabddc42a6b9c70c"
-  integrity sha512-kssjab8CvdXfcXMXVcvsXum4Hwdq9XGtRD3TteMEvEbq0LXyiNQr6AprqKqfeaDXze7SxWvRxdpwE6ku7ikLkg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hpack.js@^2.1.6:
   version "2.1.6"
